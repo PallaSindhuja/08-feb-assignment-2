@@ -1,0 +1,20 @@
+'''
+
+                            Online Python Compiler.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
+KM=float(input("Enter KM"))
+CM=(KM*100000)
+print("converting KM into CM",CM)
+
+out put:
+Enter KM 50000
+converting KM into CM 5000000000.0
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
